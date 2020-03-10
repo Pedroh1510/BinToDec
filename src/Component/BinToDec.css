@@ -1,0 +1,13 @@
+.conversor{
+    max-width: 300px;
+    min-height: 175px;
+    margin-top: 20px;
+    box-shadow: 0 3px 8px 0 rgba(5, 3, 0, 0.2);
+    text-align-last: center;
+}
+.erro{
+    color: lightcoral;
+}
+.sucesso{
+    color: lightgreen;
+}
